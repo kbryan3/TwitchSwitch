@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Sheet1_Title.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Sheet1_Title.SchDoc|FileName=Sheet2_Charging.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Sheet1_Title.SchDoc|FileName=Sheet3_Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Sheet1_Title.SchDoc|FileName=Sheet4_MCU_Sensors.SchDoc|SheetNumber=4
