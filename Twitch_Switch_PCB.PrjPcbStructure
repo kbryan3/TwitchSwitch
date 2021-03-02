@@ -2,3 +2,5 @@ Record=TopLevelDocument|FileName=Sheet1_Title.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=Sheet1_Title.SchDoc|FileName=Sheet2_Charging.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Sheet1_Title.SchDoc|FileName=Sheet3_Power.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=Sheet1_Title.SchDoc|FileName=Sheet4_MCU_Sensors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Sheet1_Title.SchDoc|FileName=Sheet5_MCU_PowerDecoupling.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Sheet1_Title.SchDoc|FileName=Sheet6_MCU_Antenna_Radio_Interface.SchDoc|SheetNumber=6
