@@ -9,7 +9,7 @@
  */
 
 //#define INCLUDE_LOG_DEBUG 1
-#include "graphics.h"
+#include "../graphics.h"
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdarg.h>

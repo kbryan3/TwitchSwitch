@@ -10,7 +10,7 @@
 #ifndef SRC_GECKO_BLE_ERRORS_H_
 #define SRC_GECKO_BLE_ERRORS_H_
 
-#include <native_gecko.h>
+#include "../protocol/bluetooth/ble_stack/inc/soc/native_gecko.h"
 
 #define  INCLUDE_LOG_DEBUG 1
 #include "log.h"

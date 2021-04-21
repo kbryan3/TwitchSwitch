@@ -14,7 +14,7 @@
 #define SRC_BLE_H_
 
 #include "main.h"
-#include "native_gecko.h"
+#include "../protocol/bluetooth/ble_stack/inc/soc/native_gecko.h"
 #include "log.h"
 #include "scheduler.h"
 #include "display.h"
